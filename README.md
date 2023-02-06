@@ -8,6 +8,6 @@ Em questões tecnicas foram abordados os conceitos de animação com Java script
 
 ## Indice do Repósitório -
 
-* [Acesse o link da pagina](https://artguiar.github.io/Formulario-de-Registro/)
+* [Acesse o link da pagina](https://artguiar.github.io/Expanding-Cards/)
 ---
 
